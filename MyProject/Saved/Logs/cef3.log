@@ -1,0 +1,15 @@
+[18292:20040:0703/021433.779:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18292:20040:0703/021433.815:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18292:20040:0703/021445.859:ERROR:device_event_log_impl.cc(196)] [02:14:45.851] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18292:20040:0703/021500.092:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19688:21348:0703/021503.357:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19688:21272:0703/021503.389:ERROR:ukm_database_backend.cc(146)] Failed to open UKM database: 0 database is locked
+[19688:21348:0703/021503.391:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19688:21348:0703/021514.370:ERROR:device_event_log_impl.cc(196)] [02:15:14.362] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19688:21348:0703/021526.735:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19684:20120:0703/021529.667:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19684:20120:0703/021529.700:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19684:20120:0703/021540.309:ERROR:device_event_log_impl.cc(196)] [02:15:40.301] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19684:20120:0703/021630.282:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[19684:20120:0703/021630.282:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[19684:20120:0703/025324.212:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
